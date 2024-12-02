@@ -1,3 +1,15 @@
 @use "./base.scss";
 
+.search>#search-container,
+.graph>#global-graph-outer {
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+}
+
+.search>#search-container,
+.graph>#global-graph-outer>#global-graph-container{
+  box-shadow: 4px 8px 16px var(--lightgray);
+}
+
+
 // put your custom CSS here!
