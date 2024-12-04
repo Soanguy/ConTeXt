@@ -1559,10 +1559,6 @@ Obsidian里的
 
 - 宽高设置和前面的 **video** 一样
 
-- **效果：**
-
-<iframe width=600 height=400 src="http://player.bilibili.com/player.html?aid=20190823&bvid=BV1yW411s7og&cid=32964980&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 ## 16. Latex 数学公式
 
 - 主要用于 **数学公式** 与 **化学公式** 的书写

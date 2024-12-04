@@ -11,5 +11,15 @@
   box-shadow: 4px 8px 16px var(--lightgray);
 }
 
+#explorer-content ul li>a{
+  font-size: .8rem;
+}
+
+.internal.alias {
+  box-shadow: 4px 4px var(--gray);
+  &:hover{
+    box-shadow: 4px 4px var(--lightgray);
+  }
+}
 
 // put your custom CSS here!
